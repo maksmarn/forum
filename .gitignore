@@ -1,0 +1,11 @@
+# Python
+venv
+**/__pycache__/**
+
+# Flask
+.flaskenv
+
+# Misc
+.idea
+.vscode
+.DS_Store
